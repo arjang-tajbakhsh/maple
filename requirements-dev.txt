@@ -1,0 +1,4 @@
+# Tools for building and previewing the app on your computer.
+# Install with:  pip install -r requirements-dev.txt
+shiny
+shinylive

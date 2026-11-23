@@ -1,0 +1,80 @@
+date,season,fire_start,fire_end,stack_temp_F,draft_inW,syrup_produced,butter_pots,bottled_canned_detail,notes
+2022-03-07,2022,11:00,19:00,625,,2 gal + 2 can,,,"1ère journée d'opération - ? gel, air. Difficultés à l'approvisionnement en eau d'érable début."
+2022-03-11,2022,13:30,14:40,566;598;625;635;645,-.065;-.05;-.005;-.025;-.08,11 gal + 1 can,,,2e journée - ligne gelée. Ajuster niveau à 1″ puis 1½″.
+2022-03-12,2022,11:30,15:30,594;580,-.02;-.05,5 gal + 7 can,,10.5L syrup used for butter (14x500g),
+2022-03-17,2022,,21:00,520;601;635;571;561;640;660,-.07;-.00;+-.00;+.04;+.02;+.005;-.08,34 gal (personal record),,,Difficulté d'amorcer l'écoulement de l'eau. Air dans section du bas. Presse : 3 plaques pleines. Blocage filtration - pression ≈ 60 psi (5 cans poudre). Nouvel essai avec 1½ can de poudre. Record à vie !
+2022-03-18,2022,11:15,,563;624;606;607,-.035;-.12;+.01;-.075,12 gal + 3 can,18x500g,,
+2022-03-19,2022,,,,,~9 gal + 3 can,,8 gal in 12x500ml bottles to client,Fête familiale Louis.
+2022-03-20,2022,,,675 (often),+-0.0,16 gal,,,Dim. Souvent 675°F ±0.0. Bois poussé à l'arrière. 3 pannes lavées à l'acide - conserver réduit.
+2022-03-22,2022,,,500;591;675;675;674,-.025;-.10;-.12;-.11;-.95,9 gal + 1 can,17x500g,,Fête de Louis.
+2022-03-24,2022,10:30,21:00,625;650;625;645;670;663,-.0125;-.03;-.09;-.03;+.085;+.02,9 gal + 6 can,21x500g,,2 citernes pleines au départ. Note : depuis plusieurs jours presse-filtre : nous mettons 1½ can (540 ml) de poudre puis ½ can à toutes les coulées. Pression début ≈ 8 psi.
+2022-03-25,2022,10:30,,634;631;666;643;663,-.065;-.055;+.01;-.07;+.07,13 gal (3 reserved),,,"Le sirop était comme plus onctueux, « gras ». Coulait « plus épais » à la valve, sans mousse. La production n'a pas été terrible. Beaucoup de bois, températures en 645 et 660°F. * Calibration thermomètre, panne [?] sirop omise, ce qui expliquerait un sirop passé de 2°F ? → plus épais."
+2022-03-26,2022,,,675;622;610,+.01;+.01;+.02,22 gal + 1 can,66x500g,,1er batch beurre érable fait à partir de sirop produit hier.
+2022-03-27,2022,10:30,14:30,672;631,-.025;+.015,14 gal + 1 can,27.75x500g,,"Feu retiré, dernier."
+2022-04-01,2022,10:00,,617;625;610;609,+.02;-.12;-.17;+.075,14 gal + 8 can + 1x250g,,,Eau neuve.
+2022-04-02,2022,6:00,18:00,565;594,+.05;-.01,23.375 gal,34x500g,,
+2022-04-03,2022,10:00,,566;568;665;610,-.10;-.05;-.055;+.10,19 gal + 1 can,19x500g,15 gal canned + 5 cans + 5 bottles,
+2023-03-08,2023,,,622,-0.01,,,,1ère petite journée. Difficulté approvisionnement en eau. Montée en réduit. Nettoyage canneuse et bain-marie. Arrêt. Repartir production après avoir enlevé l'air au niveau supérieur du retour de l'échangeur. Limite fixée @ 675°F.
+2023-03-22,2023,13:00,20:30,,,14 gal,,,2e journée de bouillage. Difficultés avec arrivée d'eau. Le niveau avait été abaissé (de 18″) en haut au réservoir à cause du gel prévu. Procédure un peu semblable au 18. Nettoyage de la sonde de température cheminée.
+2023-03-24,2023,14:00,21:00,560,-0.035,7 gal + 3 conserves + 1x250ml,19x500g,,"Eau dans réservoirs et ça coulant un peu. La 1ère panne a été vidée dans (filtre) chaudron à beurre d'érable, chauffé puis filtré chaude une 2e fois dans le même chaudron - quantité suffisante pour fabriquer beurre demain ? 1ère panne « neuve » sur bouilloire. Reparti avec réduit 2e et 3e panne. Quantité chaudron amenée à ébullition et montée en température pour 2 [?]. Feu difficile."
+2023-03-26,2023,11:30,15:00,620-670,,16 gal,,,4e journée.
+2023-03-27,2023,13:30,19:45,675,,21.5 gal + 4gal reserved,,,"À fin journée, feu bois sur toute la grille → 675°F."
+2023-03-28,2023,12:45,18:24,670,-0.1,,,1.5x250g + 1x500g,Changer 1ère panne pour nettoyer. Arrêt momentané du cannage. Préchauffé eau bouillante et élément.
+2023-03-29,2023,,,,,23.5 gal (13 bain-marie + 3.5 reserved),,,Production par Louis seulement.
+2023-04-01,2023,,,670,,11 gal canned; 8 gal held,,,Cannage du sirop du 29 mars et 1 avril a été fait aujourd'hui.
+2023-04-02,2023,,15:30,675-680,-0.05,11 gal,17x500g + 1x250g,,Cannage du restant du 1er avril. Arrêt feu pour niveau bas d'eau.
+2023-04-04,2023,12:30,21:17,675,,~24-25 gal,21 pots,,J'ai oublié que mon super-cousin allait chez le dentiste ! 2 tubs au ¾. J'appelle Léa en renfort ! 675°F toute la journée ! On soupe ici en famille (pizza). Presse jammée.
+2023-04-06,2023,13:30,20:30,670-675,-0.15,7 gal + 5 can + 3.75gal for butter,21x500g,,Mise en boîte de carton du sirop canné le 4 avril par Louis. Départ feu à l'eau neuve.
+2023-04-09,2023,,17:00,,,13.5 gal,19x500g,,Pâques. Démarrage feu. 4 fois changement filtres dans presse.
+2023-04-10,2023,13:30,20:30,675,-0.22,13 gal + 6 can + 3.5gal for butter,18x500g,,Production en premiers pour beurre d'érable. 20″ d'eau dans réservoirs chemin. Coule toujours au pompe [?]. * Quelques onces de pelures en bouillant [?]. Souper. Fin saison bouillage. * Reste le réduit à transformer en quelque chose.
+2024-02-26,2024,13:00,,526(avg);545;565;595;610,,4.125 gal,,,1er feu.
+2024-03-02,2024,,,,,,20x500g,,Identifiés 1er mars. Fait avec du sirop du 28 avril 2023 [sic] probablement.
+2024-03-03,2024,13:00,18:20,488;545;600;633;650,-.11;-.14;-.16;-.17;0,10.625 gal,21x500g,,Fait avec du sirop du 4-10-29 avril 2023 [sic] probablement. Feu bouilloire parti. Nettoyer probe temp. cheminée. Attente de remontée temp° @ 180°F.
+2024-03-05,2024,10:00,20:10,662;655,,23.125 gal,20x500g,,Bonnes temp° de feu. Chauffer sirop du 29 mars '23 pour faire du beurre d'érable - chauffé à 233.6°F puis refroidi à 97°F. Problème de limpidité → papiers filtres de la presse mis à l'envers → les trous en haut. => la poudre est passée. ∴ refiltrer toute la production de nouveau - mais encore ambré => laver réchauffer bain-marie pour nettoyer la poudre. => préchauffé à 180°F jusqu'à 16h. Souper hamburgers / frite.
+2024-03-09,2024,8:07,,595;600;630;659,-0.06,27.625 gal,20x500g,20x250ml + 12x500ml (30.145gal total),"Changement panne. Le matin, chauffer sirop @ 233.6°F pour production beurre érable ultérieurement. Laisser refroidir à 96-97°F. Très bon feu."
+2024-03-10,2024,10:30,,,,12 gal + 21x250ml,19x500g,,Cuisson à 233.6°F de sirop 2 avril puis refroidi @ (= gauge) 77°F pour production en après-midi de beurre érable. Arrêt du feu - manque d'eau.
+2024-03-14,2024,11:00,21:05,,,18.125 gal,,,Parti à eau d'érable pure partout. Changé 1ère panne. Souper.
+2024-03-15,2024,10:47,,,,23.0 gal + 2x250ml,,,Aucun changement de panne.
+2024-03-16,2024,13:10,,,,9.0 gal + 1x250ml,18x500g (582-640g),,Montée en temp 233.6°F de sirop 2 avril 2023 puis refroidi @ 85°F. * Nettoyage du probe temp. * [Changer raturé] 1ère panne mais conservé sirop du 15 mars. Arrêt de production sirop. Ambré.
+2024-03-19,2024,11:55,17:35,,,5.0 gal + 4x250ml,,,Pire journée de tous les temps. Arrêt feu - manque d'eau inter-réservoir gelé. 1er transfert : 1er essai état pression trop élevé ; * 2e essai - difficile. * Changé les filtres papier et remis 3x poudre.
+2024-03-23,2024,,,,,,20x500g,,Sam. Louis et familles ont produit du beurre d'érable.
+2024-03-26,2024,11:00,,,,17.0 gal,,,"Mar. Vider réservoir d'eau samedi. Le réduit-sirop a été consumé dans la bouilloire. Ouvert la presse car pression @ 20 psi avec by-pass ouvert. Changé les 4 filtres, remis double de poudre et continué le transfert. Ambré (entre clair et médium)."
+2024-03-28,2024,11:07,,,,19.0 gal + 1x250ml,,,"Presse montée à 14-15 psi, puis 19-24 psi, 20-24 psi, 23-25 psi lentement. 4e transfert : nettoyage. Ambré (entre clair et médium mais plus vers médium)."
+2024-03-29,2024,10:57,,,,17.0 gal + 6x250ml,21x500g,,Monter en temp sirop 2024 à 233.6°F puis (sirop maïs) laisser refroidir. Ambré (médium).
+2024-03-30,2024,,,,,,21x500g,,(Louis seul.) Avec 50/50 sirop 2023-2024.
+2024-03-31,2024,,,,,9 gal + 10x250ml,,,Louis seulement. Production « one shot » [?]. Mis en conserves le 1er avril 2024 par AD.
+2024-04-01,2024,11:00,18:15,,,23 gal total (incl. Mar31 batch),,,Cannage du sirop du 31 mars.
+2024-04-06,2024,11:45,13:30,,,,20 pots,,Panne remplie eau neuve ⟹ sent mauvais. Fabrication beurre d'érable : préchauffage.
+2025-03-14,2025,,18:00,,,,,,Démarrage des machines. Nettoyage canneuse et bain-marie. Arrêt du feu.
+2025-03-15,2025,9:17,18:00,651,-0.01,24 gal,,,Démarrage en sirop.
+2025-03-16,2025,10:15,17:45,,,19 gal,20x500g + 1x500g tasting,,Dim. * Densité vérifiée 66 Brix. Sirop montés à 233.6°F + (sirop maïs) puis refroidissement à 100°F. #1 vendu aux voisins. Extinction des feux.
+2025-03-19,2025,11:30,,,,14.5 gal,,,
+2025-03-20,2025,11:35,,,,12.75 gal,,,
+2025-03-22,2025,11:50,,,,12.125 gal,21x500g,,"Fête de Louis ! AM cuisson sirop à 233.6°F, refroidi à 100°F. 66 brix."
+2025-03-23,2025,10:45,15:14,,,7.5 gal,22x500g,,"Petite neige - sous-zéro depuis nuit. Tuyauterie était gelée aux réservoirs. Chauffage sirop pour @ 233.6°F beurre d'érable, refroidissement. Montée en temp 185°F de sirop d'hier [?]. * Manque d'eau → 1 réservoir gelé."
+2025-03-27,2025,,19:49,,,"~12 gal (uncanned, in bain-marie)",,,Tout flushé ! Nettoyer 2 pans avants. Partir avec de l'eau partout. Filtré le sirop. Prêt à canner demain par mon super-cousin Alain « le canneux » !
+2025-03-28,2025,11:55,,,,6.0 gal,,,Démarrage bain-marie. Manque d'eau. Mise en conserve sirop 27 mars. [2e transfert biffé.]
+2025-03-29,2025,9:00,,,,14.375 gal,22x500g + 0.5 tasting,36x500ml bottles (4gal),Cuire le sirop pour beurre @ 233.6°F. Bouteilles Rachelle. Ambré-clair.
+2025-03-30,2025,8:30,15:00,,,10.25 gal,23x500g,,Cuire sirop pour beurre. * Retour plainte [?] trop liquide mais vérifié à >66 Brix.
+2025-04-02,2025,,,,,~10 gal (9.375 canned),22x500g + tasting,,Transféré et mis en bain-marie pour mise en conserve le 3 avril.
+2025-04-03,2025,13:00,20:10,,,12.125 gal,23x500g,,Refroidissement sirop. Cannage du sirop d'hier.
+2025-04-05,2025,9:45,,,,13.875 gal,23x500g,,Changement des pannes → # dernier. Cuisson sirop pour beurre.
+2025-04-06,2025,11:15,,,,1.375 gal,23x500g + 1x250g tasting,,Dernière journée. * Couper l'eau car commencée à sentir le « printemps ». Filtré avec [verres de poudre biffé] tuques papier et feutre. Cuisson sirop (15 mars 2025).
+2026-03-07,2026,,18:00,,,~0.5 gal (test),,,"Démarrage - feu, samedi pm. Partir le bouillage. Production test. L'heure s'avance ce soir !"
+2026-03-08,2026,9:00,,,,19.5 gal,,,(1ère vraie journée) HA [heure avancée]. → 1 réservoir plein. Clair AD / Ex Clair SN (erreurs d'échelle [?]). Arrêt - eau très bas.
+2026-03-09,2026,9:30,,,,16.75 gal,,,
+2026-03-12,2026,10:00,19:50,,,17.75 gal,,,En eau neuve partout.
+2026-03-16,2026,,,,,,,,Fin de semaine : fabrication de bonbons durs à l'érable.
+2026-03-17,2026,10:00,19:50,620,+.17,23 gal + 1x500ml,,,2 réservoirs pleins à rebord.
+2026-03-27,2026,9:30,18:40,,,21.5 gal,,,Manque d'eau - gel - mystère.
+2026-03-28,2026,12:30,,,,~8.5 gal (4 reserved for butter),,,Eau [illisible] élevé car glace retirée du bassin. Conservé dans bain-marie pour beurre d'érable demain matin.
+2026-03-31,2026,04:00 / 13:45,,,,~11.5 gal,,,"1er démarrage feu - matin. Arrêt feu matin. 2e démarrage feu → 1er essai de transfert → filtre a défoncé → arrêt, nettoyage, réchauffage dans [?], nouveaux filtres → nouveau sirop mis de côté pour utiliser. Ajout du chaudron (sirop récupéré du matin)."
+2026-04-01,2026,13:30,19:10,,,14.75 gal,,,
+2026-04-02,2026,13:00,16:00,,,12.375 gal,,,Journée prévue - journée annulée en matinée puis changement. * Nettoyage de la cuve du bain-marie.
+2026-04-03,2026,10:30,18:00,,,15.75 gal canned + 4.75 reserved,46x500g (23+23),,* Mise en conserve du sirop d'hier. * Conservé pour beurre demain matin. * En parallèle avec [nom biffé → AD] fabrication beurre d'érable avec le sirop d'hier.
+2026-04-04,2026,,17:45,,,26.5 gal,23x500g,,Conservés pour beurre d'érable demain.
+2026-04-05,2026,,,,,,24x500g,,* Pas d'électricité de 8h00 à 18h00. Fabrication de beurre d'érable.
+2026-04-06,2026,9:00,13:30,,,~9-10 gal (est.) + 8x500ml btl (1gal),,,Pas beaucoup d'eau. La journée ne devrait pas être longue. Le sirop sera transféré au bain-marie.
+2026-04-07,2026,10:15,15:15,,,14.625 gal,,,J'ai trouvé du sirop dans le bain-marie et un chaudron. Réchauffage du bain-marie à 185°F. * Produits et identifiés 6 avril '26.
+2026-04-10,2026,,17:45,,,10.625 gal,,,Démarrage en eau neuve partout. Laissé du sirop dans bain-marie.
+2026-04-11,2026,9:40,,,,16.5 gal,,,Dernière journée. Sirop d'hier monté en beurre en matinée. Restant d'hier dans bain-marie.

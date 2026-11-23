@@ -1,0 +1,4 @@
+# Extra packages the app needs *in the browser* (Shiny itself is already included).
+# Add one per line when you start using them, e.g.:
+# plotly
+# shinywidgets

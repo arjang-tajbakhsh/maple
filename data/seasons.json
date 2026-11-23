@@ -1,0 +1,27 @@
+{
+  "_help": "Hand-written story text for each season, shown in the app (Quebec French). Edit freely. Optional per-season keys: total_gal and butter_pots override the totals found in the log notes.",
+  "_farm": {
+    "name": "Chroniques de la cabane à sucre",
+    "subtitle": "Cinq saisons à la cabane"
+  },
+  "2022": {
+    "title": "La saison record",
+    "blurb": "La première saison du cahier, et encore celle à battre. Un départ difficile pour trouver de l'eau d'érable, puis un record personnel de 34 gallons le 17 mars, une partie de sucre pour la Fête de Louis et 231 gallons quand le feu s'est éteint le 3 avril."
+  },
+  "2023": {
+    "title": "Le printemps têtu",
+    "blurb": "Des lignes gelées et des problèmes d'eau ont retardé la première vraie journée de bouillage jusqu'au 22 mars. Une fois parti, ça n'a plus arrêté : on a fait bouillir jusqu'en avril, à Pâques avec quatre changements de filtres, une presse bloquée et un souper pizza en famille pour fêter ça."
+  },
+  "2024": {
+    "title": "Le lève-tôt",
+    "blurb": "Le premier feu le plus hâtif du cahier, le 26 février. Un papier filtre installé à l'envers, une pénurie d'eau et ce que le cahier appelle la « worst day of all time », le 19 mars. La saison s'est quand même terminée avec 200 gallons de sirop et 201 pots de beurre d'érable."
+  },
+  "2025": {
+    "title": "Courte et sucrée",
+    "blurb": "Un départ tardif le 14 mars, puis une saison rapide et régulière. Densité vérifiée à 66 Brix, la première production vendue aux voisins, et le dernier changement de panne le 5 avril, quand l'eau d'érable commençait à sentir le printemps."
+  },
+  "2026": {
+    "title": "Nouvelles lignes, longue saison",
+    "blurb": "Des nouvelles lignes d'eau partout, une coulée qui a duré jusqu'au 11 avril (la fin la plus tardive à ce jour), une journée sans électricité et un filtre qui a lâché à 4 h du matin. La saison s'est terminée à 217 gallons."
+  }
+}
